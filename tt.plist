@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://down.toutiao555.com/ios/v6.2.ipa?a=2</string>
+					<string>http://down.mvtwg.com/ios/v6.2.ipa?a=2</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<integer>0</integer>
 					<key>url</key>
-					<string>http://down.toutiao555.com/ios/Icon-180.png</string>
+					<string>http://down.mvtwg.com/ios/Icon-180.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://down.toutiao555.com/ios/Icon-180.png</string>
+					<string>http://down.mvtwg.com/ios/Icon-180.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
